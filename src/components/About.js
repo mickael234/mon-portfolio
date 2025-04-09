@@ -8,9 +8,9 @@ function About() {
           <div className="row content">
             <div className="col-lg-6">
               <p>
-                Je suis un développeur passionné avec une licence en génie logiciel et système d'information. Mon
+                Je suis un développeur passionné avec une formation en génie logiciel et système d'information et un bachelor en cloud security analyst. Mon
                 expertise couvre un large éventail de technologies, du développement web au mobile, en passant par la
-                conception graphique et l'administration système.
+                conception graphique, l'administration système et la virtualisation cloud et securite informatique.
               </p>
             </div>
             <div className="col-lg-6 pt-4 pt-lg-0">

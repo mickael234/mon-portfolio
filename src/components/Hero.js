@@ -5,7 +5,7 @@ function Hero() {
           <div className="row">
             <div className="col-lg-6 d-flex flex-column justify-content-center" data-aos="fade-up">
               <h1>Diarrassouba Hassan E.</h1>
-              <h2>Développeur Fullstack Junior</h2>
+              <h2>Développeur Fullstack Junior and analysr cloud security</h2>
               <div>
                 <a href="#about" className="btn-get-started scrollto">
                   En savoir plus

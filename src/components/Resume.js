@@ -12,8 +12,8 @@ function Resume() {
                 <h4>Hassan Ezechiel Diarrassouba</h4>
                 <p>
                   <em>
-                    Étudiant en fin de cursus en génie logiciel, passionné par les TI. Compétences variées en systèmes
-                    d'information, programmation, sécurité, réseaux, design, machine learning et gestion de projet
+                    Étudiant en fin de cursus en  cloud security analyst, passionné par les TI. Compétences variées en systèmes
+                    d'information, programmation, sécurité, réseaux, design, virtualisation cloud , analyst de donnee, machine learning et gestion de projet
                     (Agile). Polyvalent et prometteur dans le domaine informatique.
                   </em>
                 </p>
@@ -26,29 +26,28 @@ function Resume() {
   
               <h3 className="resume-title">Formation</h3>
               <div className="resume-item">
-                <h4>3ème année Génie logiciel et systèmes d'information</h4>
+                <h4>4ème cloud security analyst and IA</h4>
                 <h5>Oct 2024 - Présent</h5>
                 <p>
                   <em>Iteam University, Tunis</em>
                 </p>
                 <p>
-                  Base solide en développement logiciel, compétences techniques clés en systèmes d'exploitation, sécurité
-                  informatique, machine Learning, webservices, virtualisation et architecture SOA
+                Base solide en développement logiciel,creation de chatbot et maintenance and analyste server data ,
+                Compétences techniques clés en systèmes d'exploitation, sécurité informatique, machine Learning, webservices, virtualisation et architecture SOA et server data maintenance and analyst
                 </p>
               </div>
               <div className="resume-item">
-                <h4>2ème année Génie logiciel et systèmes d'information</h4>
+                <h4>3ème cloud security analyst et systèmes d'information</h4>
                 <h5>Oct 2023 - Juin 2024</h5>
                 <p>
                   <em>Iteam University, Tunis</em>
                 </p>
                 <p>
-                  Formation en développement logiciel, gestion et administration des bases de données, et gestion de
-                  projets en méthodologie Agile (Scrum)
+                Formation en Virtualisation et Cloud,Securite informatique, machine learning et analyste de donner,  gestion et administration des bases de données, et gestion de projets en méthodologie Agile (Scrum)
                 </p>
               </div>
               <div className="resume-item">
-                <h4>1ère année en Software Engineering (système anglophone)</h4>
+                <h4>2ère année en Software Engineering (système anglophone)</h4>
                 <h5>Mars 2023 - Juil 2023</h5>
                 <p>
                   <em>Université libre de Kigali, Kigali</em>
